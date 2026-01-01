@@ -1,0 +1,4 @@
+Vendor_ID,Vendor_Name,Item_Supplied,Avg_Lead_Time (days),Cost_Per_Item,Last_Order_Date,Next_Delivery_Date
+V001,MedSupplies Inc.,Surgical Mask,5,0.5,28/09/2024,03/10/2024
+V002,EquipMed Co.,Ventilator,30,20000,01/09/2024,15/10/2024
+V003,HealthTools Ltd.,X-ray Machine,15,5000,15/09/2024,05/10/2024
